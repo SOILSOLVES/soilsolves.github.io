@@ -1,0 +1,804 @@
+
+<!doctype html>
+<html lang="en">
+
+<!-- Mirrored from guidehouse.com/insights/financial-crimes/2021/cryptocurrency-lending-lessons-cred-bankruptcy by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Sep 2023 10:41:15 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link href="../../../../cdn.jsdelivr.net/npm/bootstrap%405.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
+    <link href="../../../Assets/src/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="../../../Assets/src/css/main.minaff4.css?ver=638302958620000000" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+
+
+    <title>Cryptocurrency Lending: Lessons from the Cred Bankruptcy | Guidehouse</title>
+
+<meta charset="UTF-8">
+    <meta name="description" content="Cred’s bankruptcy highlights areas where crypto-lending companies should consider adoption of risk mitigation measures to safeguard against fraud." />
+    <meta name="keywords" content="Cred bankruptcy, risk mitigation in the digital assets sector, risk mitigation cryptocurrency, risk mitigation measures to avoid fraud" />
+    <meta property="og:url" content="/insights/financial-crimes/2021/cryptocurrency-lending-lessons-cred-bankruptcy" />
+    <meta property="og:title" content="Cryptocurrency Lending: Lessons from the Cred Bankruptcy" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Cred’s bankruptcy highlights areas where crypto-lending companies should consider adoption of risk mitigation measures to safeguard against fraud.">
+    <meta property="og:image" content="../../../-/media/www/site/insights/ie-images/financial-services/ielinkedin_180x110/GettyImages680295246_super_IELinkedIn_180x110.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Guidehouse" />
+    <meta name="twitter:title" content="Cryptocurrency Lending: Lessons from the Cred Bankruptcy">
+    <meta name="twitter:description" content="Cred’s bankruptcy highlights areas where crypto-lending companies should consider adoption of risk mitigation measures to safeguard against fraud.">
+    <meta name="twitter:image" content="../../../-/media/www/site/insights/ie-images/financial-services/ietwitter_506x506/AdobeStock_80372598_TwitterInStreamTall_506x506.jpg">
+    <link rel="canonical" href="cryptocurrency-lending-lessons-cred-bankruptcy" />
+    <meta name="limitfilter" content="Insights">
+    <meta name="oni_section" content="Insights">
+
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHMXQLN');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+    <div id="header_root">
+    </div>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHMXQLN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header>
+        <div class="main-header">
+            
+
+    <div class="black-text-header">
+        <div id="header-nav">
+                <div id="site-logo">
+                    <a href="../../../index.html">
+                        <img src="../../../-/media/www/site/images/logos/GH%20Logo%20Blackd9d2.svg?la=en&amp;hash=80ADB22FE13C2D3B7E025EC9D5B50AFE" class="logo-black" alt="Guidehouse" />
+                        <img src="../../../-/media/www/site/images/logos/GH%20Logo%20White9b7a.svg?la=en&amp;hash=96B1CCDCD2624BAD90D2DE47D151D5F9" class="logo-white" alt="Guidehouse" />
+                    </a>
+                </div>
+            <div class="header-right">
+                <div id="nav-header">
+                    <div id="nav-menu">
+                        <div class="icon-bar"></div>
+                        <div class="icon-bar"></div>
+                    </div>
+<div class="navigation">
+                            <div class="navigation-top">
+                                <div id="site-logo">
+                                    <a href="../../../index.html"><img src="../../../Assets/src/images/guidehouse-logo-white.svg" alt="guidehouse-logo"></a>
+                                </div>
+                                <a class="toggle-close"><img src="../../../Assets/src/images/toggle-close.svg"></a>
+                            </div>
+                            <ul id="nav-links">
+                                    <li class="dropdown-category menu-children">
+                                            <a class="category-title">Industries</a>
+                                                                                    <div class="dropdown-content">
+                                                <div class="dropdown-title">
+<a href="../../../industries.html" >All Industries </a>                                                    <img src="../../../Assets/src/images/right-arrow.svg" alt="right-arrow">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-lg-9 col-md-8">
+                                                                <a href="../../../industries.html" class="mobile-back-btn d-lg-none">Industries</a>
+                                                        <div class="dropdown-row custom-list-one ">
+                                                                <ul>
+                                                                            <li>
+<a href="../../../industries/defense-and-security.html" >Defense & Security</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../industries/energy-sustainability-infrastructure.html" >Energy, Sustainability & Infrastructure</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../industries/health.html" >Health</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../industries/financial-services.html" >Financial Services</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../industries/state-local-government.html" >State & Local Government</a>                                                                            </li>
+                                                                    <li></li>
+                                                                </ul>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                        <div class="col-lg-3 col-md-4 d-lg-block d-none">
+                                                            <div class="category-box">
+                                                                <a href="#">
+                                                                    
+                                                                    <div class="category-box-content">
+                                                                        <small></small>
+                                                                        <p class="large"></p>
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="dropdown-category menu-children">
+                                            <a class="category-title">Services</a>
+                                                                                    <div class="dropdown-content">
+                                                <div class="dropdown-title">
+<a href="../../../services.html" >All Services</a>                                                    <img src="../../../Assets/src/images/right-arrow.svg" alt="right-arrow">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-lg-9 col-md-8">
+                                                                <a href="../../../services.html" class="mobile-back-btn d-lg-none">Services</a>
+                                                        <div class="dropdown-row custom-list-one ">
+                                                                <ul>
+                                                                            <li>
+<a href="../../../services/data-analytics-intelligence.html" >Data, Analytics & Intelligence</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/digital-technology.html" >Digital & Technology</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/finance.html" >Finance</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/growth-acceleration.html" >Growth Acceleration</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/mission-support.html" >Mission Support</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/operations.html" >Operations</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/people-organizations.html" >People & Organization</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/regulatory-risk-and-compliance.html" >Risk, Regulatory & Compliance</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../services/sustainability.html" >Sustainability</a>                                                                            </li>
+                                                                    <li></li>
+                                                                </ul>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                        <div class="col-lg-3 col-md-4 d-lg-block d-none">
+                                                            <div class="category-box">
+                                                                <a href="#">
+                                                                    
+                                                                    <div class="category-box-content">
+                                                                        <small></small>
+                                                                        <p class="large"></p>
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="dropdown-category ">
+                                            <a href="../../../insights.html" class="category-title">Insights</a>
+                                                                            </li>
+                                    <li class="dropdown-category menu-children">
+                                            <a class="category-title">Careers</a>
+                                                                                    <div class="dropdown-content">
+                                                <div class="dropdown-title">
+<a href="../../../careers.html" >Careers</a>                                                    <img src="../../../Assets/src/images/right-arrow.svg" alt="right-arrow">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-lg-12">
+                                                                <a href="../../../careers.html" class="mobile-back-btn d-lg-none">Careers</a>
+                                                        <div class="dropdown-row custom-list-one career-menu">
+                                                                <ul>
+                                                                            <li>
+<a href="https://guidehouse.wd1.myworkdayjobs.com/External" target="_blank" rel="noopener noreferrer" >Search & Apply for Jobs</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../careers/internship.html" >Internships</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../careers/students.html" >Campus & Early Career</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../careers/experienced-professionals.html" >Experienced Professional</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../careers/veterans.html" >Veterans & Military</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../locations.html" >Offices</a>                                                                            </li>
+                                                                    <li></li>
+                                                                </ul>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                </div>
+                                            </div>
+                                    </li>
+                                    <li class="dropdown-category menu-children">
+                                            <a class="category-title">About</a>
+                                                                                    <div class="dropdown-content">
+                                                <div class="dropdown-title">
+<a href="../../../about.html" >About Guidehouse</a>                                                    <img src="../../../Assets/src/images/right-arrow.svg" alt="right-arrow">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-lg-9 col-md-8">
+                                                                <a href="../../../about.html" class="mobile-back-btn d-lg-none">About</a>
+                                                        <div class="dropdown-row custom-list-one ">
+                                                                <ul>
+                                                                            <li>
+<a href="../../../our-leadership-team.html" >Our Leadership</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../corporate-citizenship.html" >Corporate Citizenship</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../careers/inclusion-and-diversity.html" >Inclusion & Diversity</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../about/environmental-sustainability.html" >Environmental Sustainability</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../privacy-policy.html" >Privacy Policy</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../government-contract-vehicles.html" >Government Contract Vehicles</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../news-and-events.html" >News & Events</a>                                                                            </li>
+                                                                            <li>
+<a href="../../../locations.html" >Offices</a>                                                                            </li>
+                                                                    <li></li>
+                                                                </ul>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                        <div class="col-lg-3 col-md-4 d-lg-block">
+                                                            <div class="dropdown-row custom-list-one about-menu">
+                                                                            <small class="small-bold">Guidehouse in</small>
+                                                                                <small>
+<a href="../../../regions/deutschland.html" class="text-bold" ><img src="../../../-/media/feature/navigation/header/de0c19.svg?la=en&amp;hash=D9A3378FD9B35248A9548F1A41C7437A" class="search-icon" alt="" />Deutschland</a>                                                                                </small>
+                                                                                <small>
+<a href="../../../regions/india.html" class="text-bold" ><img src="../../../-/media/feature/navigation/header/in8f57.svg?la=en&amp;hash=173A6ADECD7E9C704EBA29A04B1137F3" class="search-icon" alt="" />India</a>                                                                                </small>
+                                                                                <small>
+<a href="../../../regions/lithuania.html" class="text-bold" ><img src="../../../-/media/feature/navigation/header/lid6a4.svg?la=en&amp;hash=BD29854C952D8B40E213326202601EBE" class="search-icon" alt="" />Lietuva</a>                                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                    </li>
+                            </ul>
+                            <div class="header-search-mobile">
+                                <div class="btn btn-outline-success my-2 my-sm-0 search-icon"><img src="../../../Assets/src/images/mag-glass.svg" alt="search-icon"> Search</div>
+                            </div>
+                        </div>
+                </div>
+                <div class="header-search">
+                    <img src="../../../Assets/src/images/search-icon.svg" alt="search-icon" class="search-icon white-search">
+                    <img src="../../../Assets/src/images/black-search.svg" alt="search-icon" class="search-icon black-search">
+                </div>
+            </div>
+        </div>
+    </div>
+
+        </div>
+        <img src="../../../Assets/src/images/guidehouse-logo-print.svg" alt="" class="header-logo-print" />
+    </header>
+    
+
+
+    <div class="space-header"></div>
+    <img src="../../../Assets/src/images/guidehouse-logo-print.svg" alt="" class="header-logo-print">
+    <section class="hero-insight-detail">
+        <div class="container">
+            <div class="hero-insight-main">
+                <div class="hero-insight-left">
+                    <div class="hero-insight-desc">
+                            <small>Alert</small>
+                        <h1 class="type-4">Cryptocurrency Lending: Lessons from the Cred Bankruptcy</h1>
+                        <h2 class="sub-title"></h2>
+                            <p class="text-type-4"> By Sandra Desautels</p>
+                    </div>
+
+
+                </div>
+                <section class="secondary-header insight-sticky insight-mobile-detail">
+                    <div class="d-lg-block">
+                        <nav id="main-nav" class="d-flex align-items-center">
+                            <div class="container">
+                                <div class="nav-title d-inline-flex">
+                                        <small>January 11, 2021</small>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </section>
+                <div class="hero-insight-right">
+                    <div class="hero-insight-banner">
+
+<img src="../../../-/media/www/site/insights/ie-images/advanced-solutions/iehero_1450x663/AdvancedSolutionsImages1450x660GettyImages94669675de59.jpg?h=663&amp;w=1450&amp;la=en&amp;hash=94FE44232ADBCCC98BA3F20B57DBF270" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="secondary-header insight-sticky newinsight_sticky">
+        <div id="header" class="d-lg-block ">
+
+            <nav id="main-nav" class="d-flex align-items-center ">
+                <div class="container desktop-view">
+                    <div class="nav-title d-inline-flex ">
+                            <small>January 11, 2021</small>
+                    </div>
+                    <div class="nav-share-item nav-link d-inline-block float-end">
+
+                        <a href="javascript:;" onclick="window.print();return false;" title="Print"><img src="../../../Assets/src/images/print.svg" alt=""></a>
+                        <a href="javascript:;" class="nav-share" title="Share"><img src="../../../Assets/src/images/share.svg" alt="share"></a>
+                        
+                    </div>
+                </div>
+
+                <div class="container mobile-view">
+                    <div class="jump-mobile-left">
+                            <div class="nav-title d-inline-block "><small>Alert</small></div>
+                        <small>Cryptocurrency Lending: Lessons from the Cred Bankruptcy</small>
+                    </div>
+                    <div class="nav-share-item nav-link d-inline-block float-end">
+
+                        <a href="javascript:;" onclick="window.print();return false;" title="Print"><img src="../../../Assets/src/images/print.svg" alt=""></a>
+                        <a href="javascript:;" class="nav-share" title="Share"><img src="../../../Assets/src/images/share.svg" alt="share"></a>
+                        
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="progress-bar"></div>
+    </section>
+    <section class="insight-deatils-section">
+        <div class="container">
+            <div class="insight-deatils-coloum">
+                <div class="insight-left">
+                        <section class="insight-summary">
+
+                            <div class="summary-main">
+                                
+                            </div>
+
+                        </section>
+
+                        <section class="insight-description mt-0">
+
+                            <div class="insight-desc-main">
+                                <p style="text-align: justify;"><span>This is the first in a series of alerts about risk mitigation in the digital assets sector. This alert focuses on <a href="https://mycred.io/" target="_blank">Cred Inc.</a>, a centralized cryptocurrency lender that filed for bankruptcy in November 2020. Cred&rsquo;s bankruptcy highlights areas where crypto-lending companies should consider adoption of risk mitigation measures to safeguard against fraud. Furthermore, Cred&rsquo;s experience highlights the risks inherent in financial products tied to volatile cryptocurrencies, where there is no &ldquo;lender of last resort."<sup>[i]</sup></span></p>
+<strong></strong>
+<h3>Background</h3>
+<p style="text-align: justify;"><span>Awareness and usage of cryptocurrencies has skyrocketed since 2017. Bitcoin (BTC), the largest cryptocurrency in terms of market cap, represents an innovative bundling of at least three key features: it is natively digital, decentralized, and trustless (peer-to-peer without a verifying intermediary). This fundamental financial innovation has spawned a nascent but burgeoning financial ecosystem that includes hundreds of alternate cryptocurrencies, along with exchanges, lenders, asset managers, and custodians serving both retail customers and institutions. Recently, the industry has seen a surge of activity on Ethereum, the second-largest cryptocurrency network by market cap, which serves as an open platform for developers around the world to build decentralized applications. DeFi (decentralized finance) applications range from simple lending apps to complex derivatives platforms. </span></p>
+<p style="text-align: justify;"><span>Cryptocurrencies, due to their cash-like, anonymizing features and their fundamentally borderless nature, have caught the watchful eye of government regulators across the globe for over a decade. In the US, regulators such as the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Office of the Comptroller of the Currency, and the Financial Crimes Enforcement Network have issued some guidance and rules affecting cryptocurrencies, stablecoins, and related financial schemes. The regulators are primarily looking at the activities of the different actors within the cryptocurrency ecosystem and attempting to align them with the requirements of traditional financial institutions. Activity at the state level has been uneven, with some states adopting measures to attract investment in such technologies, while others have been less welcoming, for example restricting the issuance of licenses to businesses that deal with cryptoassets. </span></p>
+<p style="text-align: justify;"><span>Cryptocurrency and related technologies are exciting innovations but often carry risks. Today&rsquo;s DeFi apps are mostly unregulated, often unaudited, and, like many of the initial coin offerings of 2017-2018, attractive to fraudsters. Centralized cryptocurrency companies are not immune to risks either, as poor controls and security practices can lead to fraud, Ponzi schemes, and hacks, resulting in the leak of customers&rsquo; personally identifiable information or the direct loss of funds. Finally, cryptocurrencies are subject to currency risk due to their extreme volatility relative to other assets, such as sovereign fiat currencies. </span></p>
+<strong></strong>
+<h3>Cred Inc., and Crypto Lending</h3>
+<p style="text-align: justify;"><span>Founded in 2018, Cred describes itself as a &ldquo;global financial services platform&rdquo; and &ldquo;licensed lender&rdquo; that delivers lending and borrowing services to customers in approximately 140 countries. Cred&rsquo;s primary financial product, &ldquo;Cred Earn,&rdquo; enables customers to earn interest of 4%-10% on their cryptocurrency holdings by issuing what many perceive as an unsecured lending contract. Under the hood, retail customers agree to lending terms and then transfer their crypto via the Cred portal to e-wallets managed by a third-party provider, while high net worth (HNW) individuals transfer their crypto directly to Cred. Cred lends the crypto to a variety of customer segments, including asset managers, crypto mining companies, and other third parties, who leverage the crypto to earn yield through arbitrage trading and other financial vehicles. Every three months, customers receive interest paid in dollars or stablecoins. Movement of funds is enabled through a variety of relationships Cred maintains with commercial banks, crypto exchanges, and OTC firms. </span></p>
+<p style="text-align: justify;"><span>Cred claimed to lend its customers&rsquo; digital assets on a &ldquo;fully collateralized and guaranteed basis&rdquo; with &ldquo;comprehensive insurance&rdquo; enabled by custodial partners who are some of the largest BTC custodians in the world.<sup>[ii]</sup> However, an estimated $140 million in customer and investor funds are now lost or at risk, including $115 million owed to holders of Cred Earn notes.<sup>[iii]</sup> According to public reports, Cred may not have properly vetted third parties or managed its liquidity risk and seems to have ignored red flags raised by employees along the way. </span></p>
+<strong></strong>
+<h3>A Liquidity Crisis and Fabricated Third Parties</h3>
+<p style="text-align: justify;"><span>At the time of filing, Cred held $136 million in liabilities, including customer deposits, compared to $68 million in assets.<sup>[iv]</sup> According to the filing, the primary driver of Cred&rsquo;s unfavorable financial situation was the rise in BTC&rsquo;s price, which spiked 200% in USD terms from a low of $4,944.70 on March 16, 2020, to $14,783.98 as of November 9, 2020. This negatively impacted Cred&rsquo;s balance sheet since customer deposits, in the form of cryptocurrency like Bitcoin, are a liability on Cred&rsquo;s balance sheet.<sup>[v]</sup> Second, Cred suffered a hack, leading to the freezing of customer cryptocurrency funds while law enforcement works to recover the lost assets.<sup>[vi]&nbsp;</sup>Most important was the &ldquo;material loss [of funds] connected with the onboarding of a fraudulent asset manager&hellip;&rdquo; and his misappropriation of 800 BTC ($15.6 million as of December 3, 2020).<sup>[vii]</sup>&nbsp;These three factors enumerated by the CEO in the bankruptcy filings seem only a partial telling of the story, as detailed below. </span></p>
+<p style="text-align: justify;"><span>Central to Cred&rsquo;s business model was moKredit, a Shanghai-based lending service. According to CoinDesk, Cred converted depositors&rsquo; cryptocurrency to yuan and then lent those funds to moKredit. Reportedly, moKredit, whose website is no longer active, advertised a &ldquo;play-first, pay-later&rdquo; business model to gamers, provisioning small lines of credit in the form of digital tokens. It seems Cred lent customer funds to moKredit to finance its own micro-lending activities. Over the course of 2020, Cred lent $39 million to moKredit, which promised to generate between 15%-24% in annual interest for Cred.<sup>[viii]</sup> During the COVID 19-induced market crash of March 2020, Cred tried to call back $10 million from moKredit but the highly leveraged Chinese lender was unable to repay. The bankruptcy filing states Cred subsequently renegotiated loan repayment terms with moKredit, a claim disputed by former employees.<sup>[ix]</sup> According to the firm&rsquo;s former head of capital markets, Cred did not attempt to recoup these funds,&nbsp;and the investment committee&rsquo;s requests to do so were consistently &ldquo;rejected by the CEO.&rdquo;<sup>[x]</sup> </span></p>
+<p style="text-align: justify;"><span>The filing documents indicate that in February 2020, Cred invested 800 BTC of Cred&rsquo;s funds into an entity called Quantcoin. The investment was allegedly administered by Kingdom Trust, a custodial service for institutional investors of crypto. When Cred contacted Kingdom Trust to recoup its funds, the latter entity claimed it had no open accounts with Cred and no knowledge of the individual who had been providing updates to Cred. According to former employees, the management team was aware of the apparent fraud and loss of funds in August, but employees were told to continue accepting deposits from new clients. After the fraud was announced, Cred froze its assets and fired three employees. This was followed by a series of lawsuits and counter lawsuits between Cred&rsquo;s CEO and the executive allegedly responsible for the Quantcoin investment, including a claim the latter took over $2 million in BTC and USDC (Circle&rsquo;s USD-denominated stablecoin) and transferred them to his own wallet. </span></p>
+<p style="text-align: justify;"><span>It appears the bankruptcy filing omits further losses based on total liabilities outstanding. Only $53 million of Cred&rsquo;s $140 million in outstanding liabilities are accounted for when totaling the $39 million loan to moKredit, the equivalent of $12 million BTC lost to Quantcoin, and the equivalent of $2 million &ldquo;stolen&rdquo; BTC. This suggests &nbsp;$80 million-$90 million in liabilities driven by the upward price movement of Bitcoin and/or other losses not divulged in the bankruptcy filings.<sup>[xi]</sup></span></p>
+<p style="text-align: justify;"><span>The illustration below is a high-level conceptual model of Cred&rsquo;s money flows, highlighting key risks to consumers and investors</span><span>.</span></p>
+<p style="text-align: justify;"><span></span></p>
+<div style="text-align: center;"><img height="768" alt="Cred  Bankruptcy" width="856" src="../../../-/media/www/site/insights/financial-services/2021/FS_ImageforAlert_WEB_0121_REV02.gif" style="text-align: center;" /></div>
+<div><strong></strong>
+<h3 style="text-align: justify;">Key Takeaways</h3>
+<p style="text-align: justify;"><span>While new technology may offer cutting-edge investment and financial opportunities, there are standard elements critical to any compliance program, which might prove even more important when dealing with new asset classes, new technology, and new market participants:</span></p>
+<ol>
+    <li style="text-align: justify;"><strong><span>Strong governance</span></strong><span>. All institutions should have a compliance committee with a charter that clearly outlines the mandate, responsibilities, meeting frequency, and the way it collects information, including records retention. Also critical are actions in accordance with company policy and procedures by the leadership team to set the proper tone of compliance; implementing mechanisms that demonstrate concerns from all employees matter and will be given serious consideration; and a training program to ensure all company employees and officers understand their roles and responsibilities with respect to compliance.</span></li>
+    <li style="text-align: justify;"><strong><span>Effective due diligence process</span></strong><span>. When followed, an appropriate due diligence program for their counterparties and business partners, as well as clients, helps entities mitigate many types of risks and avoid costly pitfalls. For instance, risk-based pre-investment due diligence steps could be based on the investment amount, the location of the recipient entity, the nature of the products/services it offers, nature of the investment, and similar considerations. Entities should apply the criteria consistently and document the results, regardless of the outcome. More importantly, if exceptions to the process are made, documentation on the reason for and the approver(s) of the exception must be created and retained.</span></li>
+    <li style="text-align: justify;"><strong><span>Ongoing risk assessments</span></strong><span>. The fast-paced and volatile digital assets environment requires properly designed risk management programs. Entities should avoid trying to adapt generic risk assessments. For example, if a cryptocurrency lender attempts to repurpose the risk assessment of a payments provider, it will quickly find its risk assessments do not produce helpful results to inform its strategies and refine controls. A fraud risk assessment will help identify vulnerable areas on which to focus resources.</span></li>
+    <li style="text-align: justify;"><strong><span>Regulatory change management</span></strong><span>. The regulatory environment for lending practices in the digital assets space is not clear and may change rapidly, notably in states that have not defined the legal status of Bitcoin and other digital assets. While many regulators are trying to allow financial institutions to innovate, regulators will likely continue to prioritize the protection of investors and financial consumers.</span></li>
+</ol>
+<hr align="left" size="1" width="33%" />
+<div id="edn1">
+<p><span style="font-size: 10px;">[i] This represents the first bankruptcy case involving a US-based cryptocurrency lender and is sure to surface several issues in nascent stages of regulatory definition, including the legal status of cryptocurrency, the valuation of claims denominated in cryptocurrency and stablecoins, and the jurisdictional oversight of securities and lending platforms.</span></p>
+</div>
+<div id="edn2">
+<p><span style="font-size: 10px;">[ii] Published in press releases pertaining to Cred and on their own company website, at <a href="https://mycred.io/" target="_blank"><span>https://mycred.io/</span></a> and <a href="https://mycred.io/learn/" target="_blank"><span>https://mycred.io/learn/</span></a> (last accessed: January 8, 2021). </span></p>
+</div>
+<div id="edn3">
+<p><span style="font-size: 10px;">[iii] CoinDesk reports that $114 million of Cred&rsquo;s $136 million in reported liabilities is owed to the 500-1,000 holders of Cred Earn notes. </span></p>
+</div>
+<div id="edn4">
+<p><span style="font-size: 10px;">[iv] According to Cred&rsquo;s Pro-Forma Asset and Liability statement filed along with its Chapter 11 filing, this includes $114.6 million in Customer Deposits and $20.8 million in Customer Collateral, both tied to the price of Bitcoin (accessed November 28, 2020). </span></p>
+</div>
+<div id="edn5">
+<p style="margin-bottom: 0.0001pt; text-align: justify;"><span style="font-size: 10px;">[v] Conversely, Cred&rsquo;s investments were denominated in dollars and did not benefit from BTC&rsquo;s price increase. The market crash in March also impacted Cred as the crash of BTC value of over 50% severely limited their cash reserves. To stop the loss, one of Cred&rsquo;s founders allegedly gave Cred a loan of 300 BTC, around $5.8 million at today&rsquo;s prices. According to employees familiar with the matter, the loan was given without formal terms. The former head of capital markets for Cred also claimed that said founder was paying interest on this personal loan with corporate and customer assets. </span></p>
+</div>
+<div id="edn6">
+<p><span style="font-size: 10px;">[vi] The hack is noted, without specifics, in the Declaration of Drew McManigle, CEO of MACCO Restructuring, which is the advisory firm retained by Cred during the bankruptcy filings and restructuring (Case 20-12836-JTD Doc 16, Filed 11/09/20). Cred cited a &ldquo;fraudulent incident&rdquo; in an announcement via Twitter on October 28, 2020, following the hack. Whether this was perpetuated by an external malicious actor or insiders is still a matter of speculation.</span></p>
+</div>
+<div id="edn7">
+<p><span style="font-size: 10px;">[vii] Reporting by Crypto.com.</span></p>
+</div>
+<div id="edn8">
+<p><span style="font-size: 10px;">[viii] Reporting by Crypto.com.</span></p>
+</div>
+<div id="edn9">
+<p><span style="font-size: 10px;">[ix] Former Cred employees who spoke to Crypto.com stated Cred&rsquo;s CEO allegedly put moKredit &ldquo;on a long leash,&rdquo; effectively allowing them to send back whatever they wanted, when they wanted.</span></p>
+</div>
+<div id="edn10">
+<p><span style="font-size: 10px;">[x] Employees have reported the CEO gave moKredit &ldquo;a long leash&rdquo; with respect to its repayment schedule, possibly due to its ownership by one of Cred&rsquo;s founders. </span></p>
+</div>
+<div id="edn11">
+<p style="text-align: justify;"><span style="font-size: 10px;">[xi] According to Cryptobriefing.com, an email from the &ldquo;ExCredCrew&rdquo; indicated Cred&rsquo;s CEO omitted a specific loss in the bankruptcy filings that is alleged to be &ldquo;even greater than the&hellip; [fraudulent asset manager] and Quantcoin situations combined.&rdquo;</span></p>
+</div>
+</div>
+                            </div>
+
+                        </section>
+                                        
+
+                </div>
+                <div class="insight-right">
+
+                        <div class="insight-related-services">
+                            <small>RELATED SERVICES</small>
+                            <ul>
+                                        <li><a href=../../../services/financial-crime-fraud-investigative-services.html>Financial Crime, Fraud &amp; Investigative Services</a></li>
+                                        <li><a href=../../../services/regulatory-risk-and-compliance.html>Risk, Regulatory &amp; Compliance</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="insight-related-industry">
+                            <small>RELATED INDUSTRIES</small>
+                            <ul>
+                                        <li><a href=../../../industries/financial-services.html>Financial Services</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="insight-related-insight">
+                            <small>MORE ON THIS TOPIC</small>
+                            <ul>
+                                        <li><a href="guidance-issued-on-virtual-currency-red-flags.html">Guidance Issued on Virtual Currency Red Flags</a></li>
+                                        <li><a href="fatf-virtual-asset-guidelines-for-regulators.html">Financial Action Task Force: Updated Virtual Asset Guidelines for Regulators</a></li>
+                                        <li><a href="mainstream-finance-and-cryptocurrency.html">Two Worlds Colliding - Mainstream Finance and Cryptocurrency</a></li>
+                            </ul>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+        <hr />
+        <section id="" class="secondary_header_item">
+            <div class="connect-box-wrapper">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Let Us Help Guide You</h4>
+                        <p class="x-large">
+                            <span style="background-color: #ffffff; color: #000000;">Complexity demands a trusted guide with the unique expertise and cross-sector versatility to deliver unwavering success. We work with organizations across regulated commercial and public sectors to catalyze transformation and pioneer new directions for the future.</span>
+                        </p>
+                    </div>
+                    <div class="col-md-6 offset-lg-1 col-lg-5">
+                        <div class="iframe-content">
+                            <iframe src="https://consulting.guidehouse.com/LP=928?source=https://guidehouse.com/insights/financial-crimes/2021/cryptocurrency-lending-lessons-cred-bankruptcy" width="100%" height="365px"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <div class="sharethis-sticky-share-buttons" style="display:none;"></div>
+
+
+
+        <section id="" class="newslatter-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7">
+                        <h4 class="lg">Stay ahead of the curve with news, insights and updates from Guidehouse about issues relevant to your organization and its work.</h4>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="iframe-content">
+                            <iframe src="https://consulting.guidehouse.com/LP=978?source=https://guidehouse.com/insights/financial-crimes/2021/cryptocurrency-lending-lessons-cred-bankruptcy" width="100%" height="365px"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    
+
+
+<!--stopindex-->
+<footer>
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-12 mobile-logo">
+                <a href="../../../index.html">
+                    <img src="../../../-/media/www/site/images/guidehouse/Akon665e.png?h=112&amp;w=91&amp;la=en&amp;hash=7BA78CD7B6180392CEE57303DF762542" alt="Guidehouse" />
+                </a>
+                <h4 class="d-lg-block">outwit complexity™</h4>
+            </div>
+            <div class="col-lg-4">
+                <div class="footer-info">
+
+                    <a href="../../../index.html" class="d-none d-lg-block">
+                        <img src="../../../-/media/www/site/images/guidehouse/Akon665e.png?h=112&amp;w=91&amp;la=en&amp;hash=7BA78CD7B6180392CEE57303DF762542" alt="Guidehouse" />
+                    </a>
+                    <h4 class="d-none d-lg-block">outwit complexity™</h4>
+                    <div class="footer-social">
+                        <h6>Connect with Us</h6>
+                        <ul class="social-icon">
+                                <li>
+<a href="https://www.facebook.com/Guidehouse/" target="_blank" rel="noopener noreferrer" ><img src="../../../-/media/feature/navigation/footer/social-media-svg/facebooka947.svg?la=en&amp;hash=B7190E0367C6641966F222B83B18F45C" alt="Facebook" /></a>                                </li>
+                                <li>
+<a href="https://twitter.com/Guidehouse" target="_blank" rel="noopener noreferrer" ><img src="../../../-/media/feature/navigation/footer/social-media-svg/twitter9227.svg?la=en&amp;hash=B050625A08D5C2FEDAC212F843B12CB9" alt="Twitter" /></a>                                </li>
+                                <li>
+<a href="https://www.linkedin.com/company/guidehouse/" target="_blank" rel="noopener noreferrer" ><img src="../../../-/media/feature/navigation/footer/social-media-svg/linkedinf240.svg?la=en&amp;hash=E8B4D95EF8D15161941FCCC6BB703FAA" alt="LinkedIn" /></a>                                </li>
+                                <li>
+<a href="https://www.youtube.com/c/guidehouse" target="_blank" rel="noopener noreferrer" ><img src="../../../-/media/feature/navigation/footer/social-media-svg/youtubeaa90.svg?la=en&amp;hash=19B1273B7C408D685D9AD50173B0504E" alt="Youtube" /></a>                                </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            
+            <div class="col-lg">
+
+                    <div class="footer-url-list">
+                        <h6>
+                                <a data-bs-toggle="collapse" href="#Industries" role="button" aria-expanded="false" class="custom-collapse d-lg-none">
+                                    Industries
+                                    <img src="../../../Assets/src/images/dropdown-arrow-2.svg" alt="dropdown-arrow-2">
+                                </a>
+                            <a href="../../../industries.html" class="d-none d-lg-block" >Industries</a>                        </h6>
+                        <ul class="collapse" id="Industries">
+                                <li>
+<a href="../../../industries/defense-and-security.html" >                                        <small>
+                                            Defense & Security
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../industries/energy-sustainability-infrastructure.html" >                                        <small>
+                                            Energy, Sustainability & Infrastructure
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../industries/financial-services.html" >                                        <small>
+                                            Financial Services
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../industries/health.html" >                                        <small>
+                                            Health
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../industries/state-local-government.html" >                                        <small>
+                                            State & Local <br>Government
+                                        </small>
+</a>                                </li>
+                        </ul>
+                    </div>
+
+            </div>
+            <div class="col-lg">
+
+                    <div class="footer-url-list">
+                        <h6>
+                                <a data-bs-toggle="collapse" href="#Services" role="button" aria-expanded="false" class="custom-collapse d-lg-none">
+                                    Services
+                                    <img src="../../../Assets/src/images/dropdown-arrow-2.svg" alt="dropdown-arrow-2">
+                                </a>
+                            <a href="../../../services.html" class="d-none d-lg-block" >Services</a>                        </h6>
+                        <ul class="collapse" id="Services">
+                                <li>
+<a href="../../../services/data-analytics-intelligence.html" >                                        <small>
+                                            Data, Analytics & <br> Intelligence
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/digital-technology.html" >                                        <small>
+                                            Digital & Technology
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/finance.html" >                                        <small>
+                                            Finance
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/growth-acceleration.html" >                                        <small>
+                                            Growth Acceleration
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/mission-support.html" >                                        <small>
+                                            Mission Support
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/operations.html" >                                        <small>
+                                            Operations
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/people-organizations.html" >                                        <small>
+                                            People & Organization
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/regulatory-risk-and-compliance.html" >                                        <small>
+                                            Risk, Regulatory & Compliance
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../services/sustainability.html" >                                        <small>
+                                            Sustainability
+                                        </small>
+</a>                                </li>
+                        </ul>
+                    </div>
+
+            </div>
+            <div class="col-lg">
+
+                    <div class="footer-url-list">
+                        <h6>
+                                <a data-bs-toggle="collapse" href="#About" role="button" aria-expanded="false" class="custom-collapse d-lg-none">
+                                    About
+                                    <img src="../../../Assets/src/images/dropdown-arrow-2.svg" alt="dropdown-arrow-2">
+                                </a>
+                            <a href="../../../about.html" class="d-none d-lg-block" target="|Custom" >About</a>                        </h6>
+                        <ul class="collapse" id="About">
+                                <li>
+<a href="../../../our-leadership-team.html" >                                        <small>
+                                            Our Leadership
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../corporate-citizenship.html" >                                        <small>
+                                            Corporate Citizenship
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../careers/inclusion-and-diversity.html" >                                        <small>
+                                            Inclusion & Diversity
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../about/environmental-sustainability.html" >                                        <small>
+                                            Environmental <br>Sustainability
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../about/legal.html" >                                        <small>
+                                            Legal / Policies
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../government-contract-vehicles.html" >                                        <small>
+                                            Government Contract Vehicles
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="../../../-/media/new-library/corporate/about/documents/2023/GH%202022%20ESG%20Report.pdf" target="_blank" rel="noopener noreferrer" >                                        <small>
+                                            2022 Environmental, Social <br>& Governance Report
+                                        </small>
+</a>                                </li>
+                                <li>
+<a href="mailto:inquiries@guidehouse.com?subject=Guidehouse.com Web Inquiries" >                                        <small>
+                                            General Inquiries
+                                        </small>
+</a>                                </li>
+                        </ul>
+                    </div>
+
+            </div>
+            <div class="col-lg">
+
+                        <div class="footer-url-list">
+                            <h6>
+
+                                <a href="../../../insights.html" >Insights</a>                            </h6>
+                        </div>
+                        <div class="footer-url-list">
+                            <h6>
+
+                                <a href="../../../careers.html" >Careers</a>                            </h6>
+                        </div>
+                        <div class="footer-url-list">
+                            <h6>
+
+                                <a href="../../../news-and-events.html" >News & Events</a>                            </h6>
+                        </div>
+                        <div class="footer-url-list">
+                            <h6>
+
+                                    <a data-bs-toggle="collapse" href="#Offices" role="button" aria-expanded="false" class="custom-collapse"></a>
+                                <a href="../../../locations.html" >Offices</a>                            </h6>
+                                <ul class="collapse" id="Offices">
+                                        <li>
+                                                <small>
+                                                    GUIDEHOUSE IN
+                                                </small>
+                                        </li>
+                                        <li>
+<a href="../../../regions/deutschland.html" >                                                <small>
+                                                    Deutschland
+                                                </small>
+</a>                                        </li>
+                                        <li>
+<a href="../../../regions/india.html" >                                                <small>
+                                                    India
+                                                </small>
+</a>                                        </li>
+                                        <li>
+<a href="../../../regions/lithuania.html" >                                                <small>
+                                                    Lithuania
+                                                </small>
+</a>                                        </li>
+                                </ul>
+                        </div>
+
+            </div>
+
+
+        </div>
+    </div>
+    
+    <div class="footer-copyright">
+        <div class="container">
+            <ul>
+                                    <li>
+<a href="../../../privacy-policy.html" class="" >                                            <small>
+                                                Privacy Policy
+                                            </small>
+</a>                                    </li>
+                                    <li>
+<a href="../../../california-privacy-notice.html" class="" target="|Custom" >                                            <small>
+                                                California Privacy Notice
+                                            </small>
+</a>                                    </li>
+                                    <li>
+<a href="../../../-/media/new-library/corporate/legal/2023/Modern%20Slavery%20Statement%20-%202022%20Final.pdf" class="" rel="noopener noreferrer" target="_blank" >                                            <small>
+                                                Modern Slavery Statement
+                                            </small>
+</a>                                    </li>
+                                    <li>
+<a href="../../../privacy-policy.html#personaldata" class="" >                                            <small>
+                                                Do Not Sell / Share My Personal Information
+                                            </small>
+</a>                                    </li>
+                                    <li>
+<a href="javascript:void(0)" class="ot-sdk-show-settings" >                                            <small>
+                                                Cookie Settings & Do Not Sell My Personal Info
+                                            </small>
+</a>                                    </li>
+                                    <li>
+<a href="../../../-/media/new-library/corporate/legal/2023/Global%20Human%20Rights%20Statement%202022-035%20BD.pdf" class="last-link " rel="noopener noreferrer" target="_blank" >                                            <small>
+                                                Global Human Rights Statement
+                                            </small>
+</a>                                    </li>
+                <li class="float-md-end">
+                    <small>&#169; 2023 Guidehouse</small>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</footer>
+<!--startindex-->
+
+        <script src="../../../../dfr7gdtg8j0s1.cloudfront.net/js/jquery-2.2.4.min.js"></script>
+        <script src="../../../Assets/src/js/owl.carousel.js"></script>
+        <script src="../../../../cdn.jsdelivr.net/npm/bootstrap%405.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src='../../../../cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js'></script>
+        <script type='text/javascript' src='../../../../platform-api.sharethis.com/js/sharethis.js#property=63925a425150cb0013011bb2&product=inline-share-buttons' async='async'></script>
+        <script src="../../../Assets/src/js/customd2ea.js?ver=638302958640000000"></script>
+        <script src="../../../Assets/src/js/backend/backendcustom.js"></script>
+        <script src="../../../Assets/src/js/share-toolsd2ea.js?ver=638302958640000000"></script>
+        <script src="../../../Assets/src/js/utilsd2ea.js?ver=638302958640000000"></script>
+        <script>
+            window.onload = function () {
+                let stickyButtonsConfig = window.__sharethis__.config['sticky-share-buttons'];
+                $('div[data-network="email"]').replaceWith($('div[data-network="email"]').clone());
+                $('div[data-network="email"]').on("click", function () {
+                    var emailSubject = "I'd like to share a link with you!";
+                    var emailBody = window.location.href;
+                    window.location.href = "mailto:?subject=" + emailSubject + "&body=" + emailBody;
+                });
+                if (window.location.hash) {
+                    var Headerheight = $('header').height();
+                    var Secondaryheaderheight = $('.secondary-header').height();
+                    var Totalheaderheight = parseInt(Headerheight + 20) + parseInt(Secondaryheaderheight);
+                    window.scrollTo(0, $(window.location.hash).offset().top - Totalheaderheight);
+                }
+            }
+        </script>
+    <script src="../../../../search.guidehouse.com/guidehouse/headersearch/facet.js"></script>
+    <script src="../../../../search.guidehouse.com/guidehouse/headersearch/build.js"></script>
+</body>
+
+<!-- Mirrored from guidehouse.com/insights/financial-crimes/2021/cryptocurrency-lending-lessons-cred-bankruptcy by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Sep 2023 10:41:15 GMT -->
+</html>
