@@ -29,6 +29,10 @@ footer .footer-copyright ul li {
     display:none;
 }
 
+.believe-order-2{
+    pointer-events: none;
+}
+
 header .main-header #header-nav #nav-header #nav-links li.dropdown-category .dropdown-content .row .dropdown-row ul li:last-child {
     display: flex !important;
 }
