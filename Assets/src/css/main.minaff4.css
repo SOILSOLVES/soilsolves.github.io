@@ -12,6 +12,23 @@ section#insights {
 
 
 
+@media screen and (max-width: 768px) {
+a.mobile-back-btn.d-lg-none {
+    display: none !important;
+}
+
+}
+
+/* CSS for mobile phones */
+@media screen and (max-width: 480px) {
+a.mobile-back-btn.d-lg-none {
+    display: none !important;
+}
+
+}
+
+
+
 .row.image-disclaimer {
     display: none;
 }
