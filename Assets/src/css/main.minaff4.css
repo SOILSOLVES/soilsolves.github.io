@@ -11,6 +11,39 @@ section#insights {
 }
 
 
+      @media all and (min-width:0px) and (max-width: 568px) {
+        
+        header .main-header #header-nav #nav-header #nav-links li.dropdown-category .dropdown-content .row .dropdown-row ul li:last-child {
+    display: block  !important;
+}
+
+        
+              
+      .mobile_view {
+    text-align: center !important;
+}
+        
+        
+footer .mobile-logo {
+    display: flex;
+    row-gap: 40px;
+    align-items: center;
+    margin-bottom: 16px;
+    flex-direction: column;
+}
+
+
+.footer-social {
+    text-align: center;
+}
+
+.footer-info {
+    display: block !important;
+}
+
+}
+      
+
 
 @media screen and (max-width: 768px) {
 a.mobile-back-btn.d-lg-none {
